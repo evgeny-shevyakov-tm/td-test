@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
+  name: test-docs
   description: BLA-BLA-BLA
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/evgeny-shevyakov-tm/td-test
