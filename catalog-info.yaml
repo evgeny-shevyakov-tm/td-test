@@ -6,6 +6,6 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/evgeny-shevyakov-tm/td-test
 spec:
-  type: docs
+  type: website
   owner: CNCF
   lifecycle: experimental
